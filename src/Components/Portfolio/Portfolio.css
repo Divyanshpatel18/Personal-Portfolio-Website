@@ -38,6 +38,7 @@
 @media screen and (max-width:480px) {
     .portfolio{
 height: 48vh;
+margin-top: 6rem;
 
     }
       }

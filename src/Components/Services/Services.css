@@ -57,8 +57,9 @@ flex:1;
  .services{
    display: flex;
    flex-direction: column;
-   gap: 2rem;
+   gap: 0rem;
    height: 65rem;
+   margin-top: 18rem;
    padding: 0;
    
  }

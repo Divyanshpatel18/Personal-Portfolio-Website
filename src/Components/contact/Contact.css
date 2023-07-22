@@ -71,6 +71,8 @@ textarea{
    }
    .l-contact{
     transform: scale(0.7);
+    margin-bottom: 25px;
+     margin-top: 25px;
    }
   .r-contact{
     top: -10rem;
